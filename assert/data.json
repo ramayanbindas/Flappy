@@ -1,0 +1,103 @@
+{
+    "fps": 30,
+    "continue": true,
+    "score": 0,
+    "previous_score": 0,
+    "highscore": 13,
+    "yellowbird": [
+        "assert/Game Objects/yellowbird-downflap.png",
+        "assert/Game Objects/yellowbird-midflap.png",
+        "assert/Game Objects/yellowbird-upflap.png"
+    ],
+    "game_objects": {
+        "background-day": "assert/Game Objects/background-day.png",
+        "base": "assert/Game Objects/base.png",
+        "pipe-green": "assert/Game Objects/pipe-green.png"
+    },
+    "ui": {
+        "message": "assert/UI/message.png",
+        "gameover": "assert/UI/gameover.png",
+        "numbers": [
+            "assert/UI/Numbers/0.png",
+            "assert/UI/Numbers/1.png",
+            "assert/UI/Numbers/2.png",
+            "assert/UI/Numbers/3.png",
+            "assert/UI/Numbers/4.png",
+            "assert/UI/Numbers/5.png",
+            "assert/UI/Numbers/6.png",
+            "assert/UI/Numbers/7.png",
+            "assert/UI/Numbers/8.png",
+            "assert/UI/Numbers/9.png"
+        ]
+    },
+    "sfx": {
+        "die": "assert/Sound Efects/die.ogg",
+        "hit": "assert/Sound Efects/hit.ogg",
+        "point": "assert/Sound Efects/point.ogg",
+        "swoosh": "assert/Sound Efects/swoosh.ogg",
+        "wing": "assert/Sound Efects/wing.ogg"
+    },
+    "font": {
+        "gamefont": "assert/font/Kenney Future Narrow.ttf"
+    },
+    "entity": {
+        "weight": 1,
+        "fly_speed": 400,
+        "pos": [
+            260,
+            185
+        ]
+    },
+    "pipes_pos": {
+        "toppipe_list": [
+            [
+                485,
+                -115
+            ],
+            [
+                728,
+                -89
+            ],
+            [
+                985,
+                -123
+            ]
+        ],
+        "bottompipe_list": [
+            [
+                485,
+                305
+            ],
+            [
+                728,
+                331
+            ],
+            [
+                985,
+                297
+            ]
+        ]
+    },
+    "other_entity": {
+        "base_pos": {
+            "img1": [
+                -592,
+                368
+            ],
+            "img2": [
+                48,
+                368
+            ]
+        },
+        "background_pos": {
+            "img1": [
+                -394,
+                0
+            ],
+            "img2": [
+                246,
+                0
+            ]
+        }
+    }
+}

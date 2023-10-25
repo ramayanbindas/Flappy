@@ -1,0 +1,21 @@
+                               Flappy Game(v 1.0.0)
+
+Created by -> Ramayan Mardi
+Gmail -> ramayanmardi@gmai.com
+github -> ramayanbindas.github.com
+
+Shortcuts:
+Click -> Left Mouse Button/Enter Key
+Back -> x key
+Pause -> p key
+Resume -> Space key / p key
+Restart -> r key
+Quit -> Escape key
+
+
+This is the remake of the game Flappy Bird, I want to add new features on top
+of it in future version.
+Features:
+ - Able to play online.
+ - Multiplayer mode
+ - Lives
