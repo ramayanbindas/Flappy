@@ -3,7 +3,7 @@ Catchy Flappy Bird-style game demo using Pygame. Stay tuned for upcoming feature
 
 # Flappy Demo Game
 
-![Flappy Bird](flappy_screenshot.png)
+![Flappy Bird](screenshots/Screenshot from 2023-10-25 12-39-28.png)
 
 Welcome to the Flappy Demo Game repository! This is a simple Flappy Bird-style game created using the Pygame library. The purpose of this project is to demonstrate game development with Python.
 
